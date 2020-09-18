@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**devmina08/devmina08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1> :woman_technologist: Hi I'm Mina!</h1>
 
-Here are some ideas to get you started:
+<p align=justify>I'm software engineer from the Philippines. I do love exploring latest technology and programming languages.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+:bookmark: I'm interested in:  
+* Automation testing
+* Project Management
+* Design Pattern
+* Software Architecture
+<h1> </h1>
+
+:sparkling_heart:  I love to use:  
+* Java (Android Development)
+* Python
+* Java SE
+* JavaScript
+<h1> </h1>
+
+:fire: Follow my journey:
+* [GitHub](https://github.com/devmina08)
+* [Dev](https://dev.to/devmina08)
+* [LinkedIn](https://www.linkedin.com/in/carmina-arroyo-946616a8/)
