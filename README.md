@@ -20,6 +20,7 @@
 <h1> </h1>
 
 :fire: Follow my journey:
-* [GitHub](https://github.com/devmina08)
-* [Dev](https://dev.to/devmina08)
-* [LinkedIn](https://www.linkedin.com/in/carmina-arroyo-946616a8/)
+* [GitHub](https://github.com/devstoriesplayground)
+* [Hashnode](https://devstoriesplayground.hashnode.dev/)
+* [Dev](https://dev.to/devstoriesplayground)
+* [Youtube](https://www.youtube.com/@devstoriesplayground)
