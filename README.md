@@ -1,26 +1,25 @@
 
-<h1> :woman_technologist: Hi I'm Mina!</h1>
+# :woman_technologist: Hi, I'm Mina!
 
-<p align=justify>I'm software engineer from the Philippines. I do love exploring latest technology and programming languages.</p>
+## 👋 About Me
+I'm a passionate **Software Engineer** from the **Philippines** who loves exploring the latest technologies and programming languages. I'm always eager to learn and implement innovative solutions in software development.
 
+## 📌 Interests
+- 🛠 **Automation Testing**
+- 📊 **Project Management**
+- 🏗 **Design Patterns**
+- 🏛 **Software Architecture**
 
+## 💖 Tech Stack
+I enjoy working with:
+- ☕ **Java** (Android Development)
+- 🐍 **Python**
+- 🔥 **Java SE**
+- 🌐 **JavaScript**
 
-:bookmark: I'm interested in:  
-* Automation testing
-* Project Management
-* Design Pattern
-* Software Architecture
-<h1> </h1>
-
-:sparkling_heart:  I love to use:  
-* Java (Android Development)
-* Python
-* Java SE
-* JavaScript
-<h1> </h1>
-
-:fire: Follow my journey:
-* [GitHub](https://github.com/devstoriesplayground)
-* [Hashnode](https://devstoriesplayground.hashnode.dev/)
-* [Dev](https://dev.to/devstoriesplayground)
-* [Youtube](https://www.youtube.com/@devstoriesplayground)
+## 🚀 Follow My Journey
+Stay connected and explore my work here:
+- 🎯 [**GitHub**](https://github.com/devstoriesplayground)
+- ✍️ [**Hashnode**](https://devstoriesplayground.hashnode.dev/)
+- 💡 [**Dev.to**](https://dev.to/devstoriesplayground)
+- 🎥 [**YouTube**](https://www.youtube.com/@devstoriesplayground)
