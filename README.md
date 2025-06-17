@@ -12,10 +12,9 @@ I'm a passionate **Software Engineer** from the **Philippines** who loves explor
 
 ## 💖 Tech Stack
 I enjoy working with:
-- ☕ **Java** (Android Development)
 - 🐍 **Python**
-- 🔥 **Java SE**
 - 🌐 **JavaScript**
+- ☕ **Java** (Android Development)
 
 ## 🚀 Follow My Journey
 Stay connected and explore my work here:
